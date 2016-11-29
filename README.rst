@@ -34,7 +34,7 @@ Then install in locally editable (``-e``) mode and run the tests.
 
 .. code-block:: console
 
-    pip install -e .[test]
+    pip install -e . [test]
     py.test
 
 Finally, give the command line program a try.
